@@ -11,11 +11,39 @@ github_username:  John Smithg
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2" 
 plugins:
-  - jekyll-algolia
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
+  - tzinfo-data
+  - jekyll-algolia
+  - webrick
+  - algolia_html_extractor
+  - algoliasearch
+  - filesize
+  - json
+  - progressbar
+  - verbal_expressions
+  - dnsruby
+  - csv
+  - i18n
+  - commonmarker
+  - rubyzip
+  - rexml
+  - concurrent-ruby
+  - faraday
+  - activesupport
+  - httpclient
+  - logger
+  - execjs
+  - faraday-net_http
+  - benchmark
+  - bigdecimal
+  - connection_pool
+  - minitest
+  - securerandom
+  - uri
+  - mutex_m
+  - net-http
