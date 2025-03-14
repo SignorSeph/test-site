@@ -298,15 +298,43 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  activesupport (= 8.0.2)
+  algolia_html_extractor (= 2.6.4)
+  algoliasearch (= 1.27.5)
+  benchmark (= 0.4.0)
+  bigdecimal (= 3.1.9)
+  commonmarker (= 0.23.11)
+  concurrent-ruby (= 1.3.5)
+  connection_pool (= 2.5.0)
+  csv (= 3.3.2)
+  dnsruby (= 1.72.4)
+  execjs (= 2.10.0)
+  faraday (= 2.12.2)
+  faraday-net_http (= 3.4.0)
+  filesize (= 0.2.0)
   github-pages
-  jekyll-algolia
+  httpclient (= 2.9.0)
+  i18n (= 1.14.7)
+  jekyll-algolia (= 1.7.1)
   jekyll-feed
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  tzinfo-data
+  json (= 2.10.2)
+  logger (= 1.6.6)
+  minitest (= 5.25.4)
+  mutex_m (= 0.3.0)
+  net-http (= 0.6.0)
+  progressbar (= 1.13.0)
+  rexml (= 3.4.1)
+  rubyzip (= 2.4.1)
+  securerandom (= 0.4.1)
+  tzinfo-data (= 1.2025.1)
+  uri (= 1.0.3)
+  verbal_expressions (= 0.1.5)
+  webrick (= 1.9.1)
 
 BUNDLED WITH
    2.6.5
