@@ -6,7 +6,7 @@ masthead_title: Abiva Publishing House Inc.
 title: "'Insert product name' by Abiva Publishing House Inc."
 header:
   overlay_color: "#007dc6"
-  overlay_image: /assets/images/ .jpg/png/etc
+  overlay_image: 
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "download"
