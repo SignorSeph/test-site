@@ -3,34 +3,34 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#007dc6"
+  overlay_image: /assets/images/ .jpg/png/etc
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "404"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br/>
+  Insert product image here.<br/>
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' style='background-color:%23ADD8E6'%3E%3C/svg%3E"
+    alt: "first"
+    title: "feature1"
+    excerpt: "This image can show a feature from the new app."
+    url: "feature1"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300' style='background-color:%23ADD8E6'%3E%3C/svg%3E"
+    alt: "second"
+    title: "feature2"
+    excerpt: "This image can show another feature from the new app."
+    url: "feature2"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300' style='background-color:%23ADD8E6'%3E%3C/svg%3E"
+    alt: "third"
+    title: "feature3"
+    excerpt: "This image can show another feature from the new app."
+    url: "feature3"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
