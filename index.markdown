@@ -2,12 +2,14 @@
 layout: splash
 permalink: /
 hidden: true
+masthead_title: Abiva Publishing House Inc.
+title: "'Insert product name' by Abiva Publishing House Inc."
 header:
   overlay_color: "#007dc6"
   overlay_image: /assets/images/ .jpg/png/etc
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "404"
+      url: "download"
 excerpt: >
   Insert product image here.<br/>
 
