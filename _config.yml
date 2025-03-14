@@ -1,10 +1,10 @@
 logo: "/assets/images/Abiva Logo 2.png"
 masthead_title: "Abiva Publishing House Inc."
-title: test-site
+title: "'Insert product name' by Abiva Publishing House Inc."
 email: 
 description: >-
   This is a test site for the DesignExer given by APH.
-baseurl: "" 
+baseurl: ""
 url: ""
 twitter_username: John Smitht
 github_username:  John Smithg
