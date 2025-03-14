@@ -1,4 +1,4 @@
-logo: "{{ site.baseurl }}/assets/images/Abiva Logo 2.png"
+logo: "{{ site.baseurl }}/assets/images/Abiva_Logo_2.png"
 masthead_title: "Abiva Publishing House Inc."
 title: "test-site"
 email: 
