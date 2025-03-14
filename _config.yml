@@ -4,7 +4,7 @@ title: "'Insert product name' by Abiva Publishing House Inc."
 email: 
 description: >-
   This is a test site for the DesignExer given by APH.
-baseurl: ""
+baseurl: "/test-site"
 url: ""
 twitter_username: John Smitht
 github_username:  John Smithg
