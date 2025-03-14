@@ -18,7 +18,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1 # Use the Ruby version compatible with your gems
+          ruby-version: 3.2 # Use the Ruby version compatible with your gems
 
       # Step 3: Install dependencies
       - name: Install Dependencies
